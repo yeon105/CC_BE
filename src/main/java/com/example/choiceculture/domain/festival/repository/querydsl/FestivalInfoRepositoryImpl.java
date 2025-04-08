@@ -14,7 +14,7 @@ import lombok.extern.slf4j.Slf4j;
 
 import java.util.List;
 
-import static com.example.choiceculture.domain.festival.entity.QCommonInfo.commonInfo;
+import static com.example.choiceculture.domain.common.entity.QCommonInfo.commonInfo;
 import static com.example.choiceculture.domain.festival.entity.QFestivalImage.festivalImage;
 import static com.example.choiceculture.domain.festival.entity.QFestivalInfo.festivalInfo;
 import static com.example.choiceculture.domain.festival.entity.QPlaceInfo.placeInfo;

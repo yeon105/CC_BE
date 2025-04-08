@@ -1,5 +1,9 @@
 package com.example.choiceculture.domain.festival.service;
 
+import com.example.choiceculture.domain.actor.dto.ActorInfoDTO;
+import com.example.choiceculture.domain.actor.entity.ActorInfo;
+import com.example.choiceculture.domain.actor.repository.ActorInfoRepository;
+import com.example.choiceculture.domain.actor.service.ActorInfoService;
 import com.example.choiceculture.domain.festival.dto.*;
 import com.example.choiceculture.domain.festival.entity.*;
 import com.example.choiceculture.domain.festival.enums.AccessState;

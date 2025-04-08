@@ -3,7 +3,6 @@ package com.example.choiceculture.domain.festival.service;
 import com.example.choiceculture.domain.festival.dto.FestivalInfoAccessDTO;
 import com.example.choiceculture.domain.festival.dto.FestivalInfoDTO;
 import com.example.choiceculture.domain.festival.dto.FestivalResponseDTO;
-import com.example.choiceculture.domain.festival.dto.TicketResponseDTO;
 import com.example.choiceculture.dto.PageRequestDTO;
 import com.example.choiceculture.dto.PageResponseDTO;
 

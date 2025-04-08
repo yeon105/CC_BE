@@ -1,5 +1,6 @@
 package com.example.choiceculture.domain.festival.dto;
 
+import com.example.choiceculture.domain.actor.dto.ActorInfoDTO;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 

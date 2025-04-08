@@ -1,7 +1,8 @@
 package com.example.choiceculture.domain.festival.controller;
 
+import com.example.choiceculture.domain.actor.dto.ActorInfoDTO;
 import com.example.choiceculture.domain.festival.dto.*;
-import com.example.choiceculture.domain.festival.service.ActorInfoService;
+import com.example.choiceculture.domain.actor.service.ActorInfoService;
 import com.example.choiceculture.domain.festival.service.FestivalInfoService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
